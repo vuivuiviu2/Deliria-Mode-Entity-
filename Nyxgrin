@@ -138,4 +138,4 @@ workspace.CurrentRooms.ChildAdded:Connect(function()
 			end
 		end)
 	end
-end
+end)
